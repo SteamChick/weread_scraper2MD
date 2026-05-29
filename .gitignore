@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and generated exports
+cookies.txt
+output/
+python修复记录.md
+
+# Local editor and OS files
+.claude/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local conversation exports
+我本地的python运行环境有点小问题*.md
