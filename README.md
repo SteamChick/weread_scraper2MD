@@ -1,0 +1,2 @@
+# weread_scraper2MD
+一个自动爬取微信读书内容并导出为Markdown文件的脚本，需手动登录具有授权的账号
